@@ -5,7 +5,7 @@ EST_PRIORITY = %w{
   est_sp_JH
   est_sp_JH_2002
   est_sp_UCD
-  est_sp_JF
+  est_sp_JFT
   est_sp_Jones_2009
   est_sp_HW
   est_sp_Wikipedia
@@ -14,7 +14,8 @@ EST_PRIORITY = %w{
 DESC_PRIORITY = %w{
   desc_species_other
   desc_species_AG
-  desc_species_WP
+  desc_species_HW
+  desc_species_Wikipedia
 }
 
 EST_SOURCES = {
@@ -28,15 +29,21 @@ EST_SOURCES = {
 }
 
 DESC_SOURCES = { 
-  # 'desc_genera_WP' => '',
-  'desc_species_WP' => 'Wikipedia/Wikispecies',
-  # 'desc_genera_AG' => '',
+  'desc_species_HW' => 'Hymenoptera of the World',
+  'desc_species_Wikipedia' => 'Wikipedia/Wikispecies',
   'desc_species_AG' => 'Aguiar, Alexandre P., et al. "Order hymenoptera." Zootaxa 3703.1 (2013): 51-62.', 
-  # 'desc_genera_other' => '',
   'desc_species_other' => ''
+  # 'desc_genera_WP' => '',
+  # 'desc_genera_AG' => '',
+  # 'desc_genera_other' => '',
 }
 
 data = CSV.read('data.tsv', headers: true, col_sep: "\t")
+
+# puts "\n"
+# puts "desc:" + data.headers.select{|h| h =~ /desc_.*/}.join("\n")
+# puts "\n"
+# puts "est:" + data.headers.select{|h| h =~ /est_.*/}.join("\n")
 
 def get_values(row, mode = :est)
 
@@ -63,7 +70,8 @@ def get_values(row, mode = :est)
     v.each do |d|
       if d.first == p
         cit = b[p]
-        cit = row['other_reference'] if mode == :desc && cit == 'desc_species_other'
+#        byebug if mode == :desc
+        cit = row['other_reference'] if mode == :desc && p == 'desc_species_other'
         return [d.last, cit] 
       end
     end
