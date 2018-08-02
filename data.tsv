@@ -1,0 +1,101 @@
+Superfamily	Family	est_sp_JH	est_sp_JF	est_sp_UCD	est_sp_HW	est_sp_Wikipedia	est_sp_Jones_2009	est_sp_JH_2002	descr_genera_HW	descr_species_HW	desc_genera_WP	desc_species_WP	desc_genera_AG	desc_species_AG	desc_genera_other	desc_species_other	other_reference	comment		
+Xyeloidea	Xyelidae	100							0	46	5	50	5	63	5	81	ECatSym database, fossils excluded (outdated version from 2011 online: https://sdei.de/ecatsym/)			
+Tenthredinoidea	Argidae	1500								800	53	800	58	897	55	950	ECatSym database, fossils excluded (outdated version from 2011 online: https://sdei.de/ecatsym/)			
+Tenthredinoidea	Blasticotomidae	20							3	9	3	9	2	12	2	12	ECatSym database, fossils excluded (outdated version from 2011 online: https://sdei.de/ecatsym/)			
+Tenthredinoidea	Cimbicidae	200								130	6	130	16	182	15	190	ECatSym database, fossils excluded (outdated version from 2011 online: https://sdei.de/ecatsym/)			
+Tenthredinoidea	Diprionidae	200								90	11	90	11	136	11	149	ECatSym database, fossils excluded (outdated version from 2011 online: https://sdei.de/ecatsym/)			
+Tenthredinoidea	Pergidae	500								400	59	450	60	442	59	431	Schmidt Smith 2006	60 genera and 452 species according to ECatSym database		
+Tenthredinoidea	Tenthredinidae	7000								6000	430	7500	400	5500	382	5963	ECatSym database, fossils excluded (outdated version from 2011 online: https://sdei.de/ecatsym/)			
+Pamphilioidea	Megalodontesidae	50								40	10	40	1	42	1	42	ECatSym database, fossils excluded (outdated version from 2011 online: https://sdei.de/ecatsym/)			
+Pamphilioidea	Pamphiliidae	400								200	8	200	10	291	10	312	ECatSym database, fossils excluded (outdated version from 2011 online: https://sdei.de/ecatsym/)			
+Cephoidea	Cephidae	200								100	16	70	21	160	22	169	ECatSym database, fossils excluded (outdated version from 2011 online: https://sdei.de/ecatsym/)			
+Anaxeloidea	Anaxyelidae	1							1	1	1	1	1	1	1	1	ECatSym database, fossils excluded (outdated version from 2011 online: https://sdei.de/ecatsym/)			
+Xiphidrioidea	Xiphidriidae	200								80	3	120	28	146	28	152	ECatSym database, fossils excluded (outdated version from 2011 online: https://sdei.de/ecatsym/)			
+Siricoidea	Siricidae	150								93	10	150	11	111	10	133	ECatSym database, fossils excluded (outdated version from 2011 online: https://sdei.de/ecatsym/)			
+Orussoidea	Orussidae	100								70	14	89	16	82	15	90	ECatSym database, fossils excluded (outdated version from 2011 online: https://sdei.de/ecatsym/)			
+Evanioidea	Aulacidae	300							13	150	2	200	2	185						
+Evanioidea	Evaniidae	500							14	400	20	400	21	449						
+Evanioidea	Gasteruptiidae	700							9	500	9	500	6	496						
+Ceraphronoidea	Ceraphronidae				1000					360	14	360	15	304						
+Ceraphronoidea	Megaspilidae				1000				12	500	13	450	12	299						
+Stephanoidea	Stephanidae	400								100	11	345	11	342						
+Trigonaloidea	Trigonalidae	100								75	15	90	16	92						
+Megalyroidea	Megalyridae	50							10	45	8	49	8	43						
+Chrysidoidea	Bethylidae	3000								2200	80	2200	84	2340						
+Chrysidoidea	Chrysididae	4000								3000	93	3000	81	2500						
+Chrysidoidea	Dryinidae	3000							58	1100	50	1800	41	1605						
+Chrysidoidea	Embolemidae	50							2	10	2	20	2	39						
+Chrysidoidea	Plumariidae	30							4	20	7	20	7	22	5	20	Waspweb (van Noort)			
+Chrysidoidea	Sclerogibbidae	30							7	10	7	10	3	20						
+Chrysidoidea	Scolebythidae	10							3	3	4	4	4	6						
+Vespoidea	Bradynobaenidae	200								155	3	155	10	188						
+Vespoidea	Chyphotidae	200									2									
+Vespoidea	Formicidae				25,000					8800	288	12,000	299	12199	334	13424	http://antcat.org/			
+Vespoidea	Mutillidae	5000								5000	118	3000	210	4302						
+Vespoidea	Myrmosidae	20									10									
+Vespoidea	Pompilidae	10000								4200	200	5000	125	4855						
+Vespoidea	Rhopalosomatidae	100							4	34	4	68	4	72						
+Vespoidea	Sapygidae	100							3	17	12	80	12	66						
+Vespoidea	Scoliidae	1000								300	34	560	143	560						
+Vespoidea	Sierolomorphidae	25							1	10	1	10	2	11						
+Vespoidea	Thynnidae	100									34									
+Vespoidea	Tiphiidae	4000								1500	23	1500	120	2000						
+Vespoidea	Vespidae	8000								315	255	4673	268	4932	262	5018	Pickett & Carpenter 2010 (It has changed since)			
+Apoidea	Ammoplanidae	200									10	130								
+Apoidea	Ampulicidae	300							6	167	6	170	6	200						
+Apoidea	Bembicidae	1000								460	20	460								
+Apoidea	Crabronidae	20000								3400	200	9000	242	8773						
+Apoidea	Heterogynaidae	20							1	5	1	8								
+Apoidea	Pemphredonidae	1500							29	860	41	1000								
+Apoidea	Philanthidae	1500								1100	9	1100								
+Apoidea	Psenidae	500								460	11	460								
+Apoidea	Sphecidae	1000								660	19	660	19	724						
+Apoidea	Andrenidae	5000								2000	43	2000	77	2917	45	2530	Yanega database			
+Apoidea	Apidae	8000								1000	190	5700	209	5749	190	5600	Yanega database			
+Apoidea	Colletidae	5000								2000	54	2000	86	2547	55	2170	Yanega database			
+Apoidea	Halictidae	10000								3500	77	3500	79	4327	75	3200	Yanega database			
+Apoidea	Megachilidae	10000								7000	76	7000	76	4096	80	2040	Yanega database			
+Apoidea	Melittidae	300								100	16	200	15	187	16	115	Yanega database			
+Apoidea	Stenotritidae	50								5	2	21	2	21						
+Ichneumonoidea	Braconidae		80000		40000	50000	43000				1000	17000	1057	19205	1103	21223	Yu taxapad	Jin-Kyung Choi		40000; comment from Jose Fernandez-Triana: I would put here at least 80,000, see my comments about that on cell Q.
+Ichneumonoidea	Ichneumonidae		100000		60000	100000					1000	24000	1575	24025	1601	25292	Yu taxapad	Jin-Kyung Choi		60000; comment from Jose Fernandez-Triana: I would put here at least 100,000, see my comments about that on cell Q.
+Platygastroidea	Platygastridae				14000				210	4100	60	1100	236	5385						
+Cynipoidea	Austrocynipidae	1							1	1	1	1	1	1						
+Cynipoidea	Cynipidae	1500								1200	80	1300	74	1412						
+Cynipoidea	Figitidae	3000								350	130	1400	148	1571						
+Cynipoidea	Ibaliidae	25								15	3	20	3	20						
+Cynipoidea	Liopteridae	200								71	13	143	10	154						
+Proctotrupoidea	Austroniidae	5							1	3	1	3	1	3						
+Proctotrupoidea	Heloridae	15							1	2	1	2	1	12						
+Proctotrupoidea	Pelecinidae	3							1	1	1	3	1	3						
+Proctotrupoidea	Peradeniidae	5							1	2	1	2	1	2						
+Proctotrupoidea	Proctorenyxidae	10							1	1	1	2	2	2						
+Proctotrupoidea	Proctotrupidae				1200				21	310	30	400	28	403						
+Proctotrupoidea	Roproniidae	30								18	2	21	2	20						
+Proctotrupoidea	Vanhorniidae				7				1	5	3	5	3	5						
+Diaprioidea	Diapriidae				4000				150	2300	150	2300	190	2048						
+Diaprioidea	Maamingidae	5								2	1	2	1	2						
+Diaprioidea	Monomachidae	50							2	20	2	8	2	30						
+Mymarommatoidea	Mymarommatidae	50								9	2	10	3	10	3	10	GibsonReHu2007			
+Chalcidoidea	Agaonidae			2000						650	24	650	20	762		454	Noyes UCD			
+Chalcidoidea	Aphelinidae			25000						1120	35	1160	29	1078		1399	Noyes UCD			
+Chalcidoidea	Azotidae			1500							1	94	1	92		92	Noyes UCD			
+Chalcidoidea	Chalcididae			15000						1875	85	1455	90	1469	85	1537	Noyes UCD			
+Chalcidoidea	Cynipencyrtidae			1						1			1	1	1	1	Heraty et al. 2013			
+Chalcidoidea	Encyrtidae			100000					745	3825	455	3710	493	4058	500	4776	Noyes UCD			
+Chalcidoidea	Eriaporidae			200						10	5	22	5	22		22	Noyes UCD			
+Chalcidoidea	Eucharitidae							784	70	380	55	417	57	427	65	484	Heraty 2018	Noyes estimates 8000		
+Chalcidoidea	Eulophidae			130000						3900	300	4300	334	4969		5994	Noyes UCD			
+Chalcidoidea	Eupelmidae			10000						900	45	905	51	931		1053	Noyes UCD			
+Chalcidoidea	Eurytomidae			15000						1425	87	1420	97	1453		1602	Noyes UCD			
+Chalcidoidea	Leucospidae			800						240	4	135	4	134		141	Noyes UCD			
+Chalcidoidea	Mymaridae			70000						1400	100	1400	96	1437		1461	Noyes UCD			
+Chalcidoidea	Ormyridae			2000					4	90	3	120	3	125		145	Noyes UCD			
+Chalcidoidea	Perilampidae			4000					6	260	17	270	17	284		302	Noyes UCD			
+Chalcidoidea	Pteromalidae			80000						4115	640	3450	619	3544	642	4194	Noyes UCD	Mitroiu estimates the lowest number 40000		
+Chalcidoidea	Rotoitidae			5						2	2	2	2	2		2	Noyes UCD			
+Chalcidoidea	Signiphoridae			5000					4	80	4	80	4	78		83	Noyes UCD			
+Chalcidoidea	Tanaostigmatidae			1000					15	90	9	90	9	93	9	99	Noyes UCD			
+Chalcidoidea	Tetracampidae			600						50	14	44	15	44		57	Noyes UCD			
+Chalcidoidea	Torymidae			8000					120	1150	58	760	82	900		1181	Noyes UCD	WP-Megastigmidae		
+Chalcidoidea	Trichogrammatidae			30000						675	80	840	97	881	98	1005	Noyes UCD			
