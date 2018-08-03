@@ -1,3 +1,8 @@
+
+#
+# Raw data originate from https://docs.google.com/spreadsheets/d/1viJlJpqu23a0lQMaCaf3_immHqj6J8DtaZZWA4V6ZxQ/edit#gid=1460381540
+#
+
 require 'csv'
 require 'byebug'
 
